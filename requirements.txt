@@ -33,7 +33,7 @@ django-rest-auth==0.9.1
 django-reversion==2.0.10
 django-static-precompiler==1.8.2
 django-versatileimagefield==1.7.1
-djangorestframework==3.6.4
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 et-xmlfile==1.0.1
 idna==2.5
